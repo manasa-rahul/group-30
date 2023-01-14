@@ -1,2 +1,2 @@
 # group-30
-Software Architecture group assignments
+Changing contents in Readme
